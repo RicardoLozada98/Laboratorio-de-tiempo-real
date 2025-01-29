@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/laboratorio-tiempo-real/indice/","tags":["gardenEntry"]}
 ---
 
-
-
 1. [[LABORATORIO TIEMPO REAL/Introducción y objetivos\|Introducción y objetivos]]
 2. [[LABORATORIO TIEMPO REAL/Equipos del laboratorio\|Equipos del laboratorio]]
 3. [[LABORATORIO TIEMPO REAL/Arquitectura física y conexiones\|Arquitectura física y conexiones]]
